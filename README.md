@@ -2,6 +2,8 @@
 
 CNN Model built using PyTorch that classfies Cats and Dogs with an accuracy of 94.26%
 
+Link to dataset : [Click Here](https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset)
+
 ## Highlights
 * Deep CNN Model with 8 Convolutional Layers.
 * Trained the model on 24,998 images of Cats and Dogs on the Kaggle dataset.
